@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @singaman
-- 👀 I’m interested in Computer Science core subject and Trending Techinology
+- 👀 I’m interested in Computer Science core subject and Trending Technology
 - 🌱 I’m currently learning web development full stack
 - 💞️ I’m looking to collaborate on Web development project
 - 📫 You can reach me on singhaman2750@gmail.com
