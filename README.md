@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @singaman
-- 👀 I’m interested in Computer Science core subject and Trending Technology
-- 🌱 I’m currently learning web development full stack
-- 💞️ I’m looking to collaborate on Web development project
-- 📫 You can reach me on singhaman2750@gmail.com
-
-<!---
-singaman/singaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+singhaman/README.md
+wave Hi, I’m @singh-aman
+eyes I’m interested in Software Development
+seedling I’m a MERN stack Developer
+revolving_hearts I’m looking to collaborate on exciting projects which helps us to make our lives more efficient
+mailbox How to reach me, drop mail at singhaman2750@gmail.com
+I am actively looking for the role of SDE.
+Linkedin:: https://www.linkedin.com/in/aman-singh-b7b153193
+Leetcode:: https://leetcode.com/singhaman2750/
