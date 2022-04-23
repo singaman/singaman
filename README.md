@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">eight_pointed_black_star wave Hi, I’m @singaman eight_pointed_black_star eyes I’m interested in Software Development eight_pointed_black_star seedling I’m a MERN stack Developer eight_pointed_black_star heart_decoration I’m looking to collaborate on exciting projects which helps us to make our lives more efficient eight_pointed_black_star mailbox How to reach me, drop mail at singhaman2750@gmail.com eight_pointed_black_star I am actively looking for the role of SDE. eight_pointed_black_star Linkedin:: https://www.linkedin.com/in/aman-singh-b7b153193 eight_pointed_black_star Leetcode:: https://leetcode.com/singhaman2750/</h3>
+<h3 align="center">Hi, I’m @singaman interested in Software Development and a MERN stack Developer and actively looking to collaborate on exciting projects which helps us to make our lives more efficient and I am actively looking for the role of SDE.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singaman&label=Profile%20views&color=0e75b6&style=flat" alt="singaman" /> </p>
 
@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aman-singh-b7b153193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-singh-b7b153193" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/singhaman2750/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/singhaman2750/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
