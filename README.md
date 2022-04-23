@@ -1,4 +1,4 @@
-✴ 👋 Hi, I’m @singh-aman
+✴ 👋 Hi, I’m @singaman
 ✴ 👀 I’m interested in Software Development
 ✴ 🌱 I’m a MERN stack Developer
 ✴ 💟 I’m looking to collaborate on exciting projects which helps us to make our lives more efficient
