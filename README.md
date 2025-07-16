@@ -1,31 +1,59 @@
-![MasterHead](https://geekflare.com/wp-content/uploads/2022/10/Learn-Coding-in-a-Fun-Way-on-These-7-Platforms.jpeg)
+
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">Result-oriented and a passionate Full Stack Web Developer</h3>
+<h3 align="center">Associate Engineer @TechMahindra | Node.js Specialist | MERN Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=singaman&label=Profile%20views&color=0e75b6&style=flat" alt="singaman" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravanand015&label=Profile%20views&color=0e75b6&style=flat" alt="gauravanand015" /> </p>
+---
 
+### 🚀 About Me
+- 🔭 **Currently working on:** Scalable backend systems at Tech Mahindra
+- 🌱 **Learning:** AWS Cloud Architecture & Microservices
+- 👨‍💻 **Portfolio:** [https://singaman.github.io/](https://singaman.github.io/)
+- 💬 **Ask me about:** Node.js, REST APIs, MongoDB
+- 📫 **Reach me:** singhaman2750@gmail.com | [LinkedIn](https://www.linkedin.com/in/aman-singh-b7b153193/)
 
+---
 
-- 🌱 I’m currently learning *Backend*
+### 🛠 Tech Stack
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-22.1-green?logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-4.18-blue)
+![NestJS](https://img.shields.io/badge/NestJS-10-red)
 
-- 👨‍💻 All of my projects are available at [https://singaman.github.io/](https://singaman.github.io/)
+**Frontend:**  
+![React](https://img.shields.io/badge/React-18-%2361DAFB?logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
 
-- 💬 Ask me about *Node Js*
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-7.0-green?logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)
 
-- 📫 How to reach me *singhaman2750@gmail.com*
+**Tools:**  
+![AWS](https://img.shields.io/badge/AWS-Lambda%20|%20EC2-orange?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-25-blue?logo=docker)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aman-singh-b7b153193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="singaman" height="30" width="40" /></a>
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=singaman&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=singaman&theme=radical" />
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singaman" alt="singaman" /></a> </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravanand015&show_icons=true&locale=en&layout=compact" alt="gauravanand015" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singaman&layout=compact&theme=radical" />
+</p>
 
-<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=singaman&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=singaman&show_icons=true&locale=en)" alt="singaman" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singaman&" alt="singaman" /></p>
+### 🏆 Achievements
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=singaman&theme=onedark)
+
+---
+
+### 🔥 Recent Projects
+| Project | Tech Stack | Live Demo |
+|---------|------------|-----------|
+| [E-Commerce API](https://github.com/singaman/ecommerce-api) | Node.js, MongoDB, AWS | [Demo](https://ecommerce-singaman.vercel.app) |
+| [TechM Internal Tool]() | Express, React, Docker | Private Repo |
